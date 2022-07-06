@@ -6,8 +6,16 @@
     align-items: center;
 }
 
+.menu-styles{
+    background-color: #6c1334;
+    height: 40px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;    
+}
+
 /*font*/
-.header-font-styles{    
+.all-font{    
     padding-left: 64px;
     color: white;
 }
