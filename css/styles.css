@@ -35,25 +35,25 @@ main{
 }
 
 .aside-1{
-    background-color: #d483a2; 
+    background-color: #a94f76; 
     height: 20%;       
 }
 
 .aside-2{
-    background-color: #d483a2;      
+    background-color: #a94f76;      
     margin-top: 10px;      
     height: 33%;  
 }
 
 .aside-3{
     width: 13%;
-    background-color: #d483a2;
+    background-color: #a94f76;
     height: 55%; 
     display: flex;   
 }
 
 .main-context{    
-    background-color: #d483a2;
+    background-color: #a94f76;
     height: 100%;     
     width: 70%;
     display: flex;
@@ -94,4 +94,16 @@ main{
     margin-top: 30%;
     margin-left: 40%;
     color: white;
+}
+
+/*footer*/
+.footer-styles{
+    background-color: #6c1334;
+    height: 50px;
+    margin-top: 10px;
+    display: flex;
+}
+
+.footer-font-styles{
+    margin: 10px;    
 }
