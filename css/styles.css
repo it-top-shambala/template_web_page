@@ -1,0 +1,13 @@
+/*header*/
+.header-styles{
+    background-color: #a94f76;    
+    height: 64px;        
+    display: flex;
+    align-items: center;
+}
+
+/*font*/
+.header-font-styles{    
+    padding-left: 64px;
+    color: white;
+}
